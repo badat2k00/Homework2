@@ -1,0 +1,8 @@
+.Footer{
+    margin-top: 100px;
+    display:flex;
+    justify-content: space-between;
+}
+.Item h5{
+    font-weight: normal;
+}
